@@ -19,6 +19,6 @@ I can't find Nemo :("
 ```
 "I am finding Nemo !"  -->    "I found Nemo at 13!"  
 "Nemo is me"           -->    "I found Nemo at 0!"  
-"I Nemo am"            -->    "I found Nemo at 2!"  
+"Nemo is me"            -->    "I found Nemo at 2!"  
 "Hello World"          -->    "I can't find Nemo :("  
 ```
